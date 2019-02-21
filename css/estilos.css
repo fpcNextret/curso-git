@@ -1,0 +1,8 @@
+body{
+    margin:0;
+    border: 10px solid red;
+}
+img{
+    max-width: 100%;
+    vertical-align: top;
+}
